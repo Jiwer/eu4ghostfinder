@@ -3,7 +3,6 @@ local function menuable_tap()
     local tw = TextWindow.new("Mastoid & KLS's EU4 Ghost Finder")
 
     local ips = {}
-    local dumpers = {}
     local ran = false
     local myip = ""
 
